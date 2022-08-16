@@ -1,5 +1,6 @@
 :root {
     /*========================================= RED THEME ===========================================================*/
+    /*
     --color-primary: #ff7b02;
     --color-primary-variant: #e5a55d;
     --color-bg-1: #170000;
@@ -8,9 +9,10 @@
     --color-bg-4: #470000;
     --color-light: #b28585;
     --color-white: hsl(, 0%, 90%);
+    */
 
     /*==================================== PURPLE THEME ======================================================*/
-    /*
+    
     --color-primary: #ff7b02;
     --color-primary-variant: #e5a55d;
     --color-bg-1: #140021;
@@ -19,7 +21,7 @@
     --color-bg-4: #36005a;
     --color-light: #d0b8e0;
     --color-white: hsl(, 0%, 90%);
-    */
+    
 
     --container-width-lg: 88%;
     --container-width-md: 92%;
